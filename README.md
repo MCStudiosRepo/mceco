@@ -1,0 +1,2 @@
+# mceco
+An economy simulation.
